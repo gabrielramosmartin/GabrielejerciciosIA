@@ -1,0 +1,5 @@
+?- invertir([a,b,c,d], R).        % R = [d,c,b,a]
+?- sumar_lista([10,5,2,3], T).    % T = 20
+?- ultimo_elemento([prolog,ia,logica], U). % U = logica
+?- filtrar_mayores([10,3,15,7,20], 10, R). % R = [15,20]
+?- es_hermano(ana, pedro).        % true
